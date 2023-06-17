@@ -1,0 +1,10 @@
+
+------------------------------------------
+### Version: 0.0.1 Alpha (6/17/2023)
+------------------------------------------
+
+Initial Release of Celestial Strands High-DPI.
+
+* Changelog
+	* General
+		* Adds High-DPI @2X sprites for all current unique Celestial Strands graphics.
